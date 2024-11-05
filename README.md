@@ -3,7 +3,7 @@
 This project aims to predict employee attrition using machine learning models and provides a Streamlit interface for users to interact with the model.
 
 ## Project Structure
-
+```
 Attrition-prediction-streamlit/
 ├── Dataset/
 │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
@@ -12,7 +12,7 @@ Attrition-prediction-streamlit/
 ├── attrition.py
 ├── model.py
 └── requirements.txt
-
+```
 
 ### Folder and File Details
 
@@ -79,8 +79,11 @@ To start the Streamlit app, use:
 
 ```bash
 streamlit run <your_main_app_file>.py
+```
 
-## Dataset
+Make sure to replace <your_main_app_file>.py with the name of your main Streamlit application file (for example, app.py).
+
+### Dataset
 
 This project uses an HR Employee Attrition dataset, which contains features related to employee demographics, job role, satisfaction, and more, to help predict the likelihood of employee attrition.
 
