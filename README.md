@@ -61,6 +61,9 @@ Attrition-prediction-streamlit/
 ### Installation
 
 1. Clone the repository.
+   ```bash
+   git clone https://github.com/meet3264/Employee_Attrition_Prediction_Streamlit.git
+   cd Employee_Attrition_Prediction_Streamlit
 2. Navigate to the project directory (if not already there).
 3. Install the required dependencies:
 
